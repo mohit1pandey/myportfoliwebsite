@@ -37,6 +37,7 @@ const Contact = () => {
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptate sapiente necessitatibus nobis cupiditate vero, sequi repellendus fuga perspiciatis eveniet eligendi?
             </p>
             <div className="clientimgs">
+                 <h3>Some Fake Client</h3>
                 <img src={Client1} alt="client1"  className='clientimg'/>
                 <img src={Client2} alt="client2"  className='clientimg'/>
                 <img src={Client3} alt="client3"  className='clientimg'/>
